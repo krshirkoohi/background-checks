@@ -1,5 +1,7 @@
 # Exploratory Data Analysis in SQL and Python
 
+This project involves working with three tables from a larger, unseen dataset, data wrangling with SQL and Pandas and Exploratory Data Analysis. The findings are visualised using Seaborn and MatPlotLib and the final result is a PowerPoint presentation with the figures and an interpretation. 
+
 ## The Scenario
 The recruitment team completes background checks every month to surface criminal records of candidates before they move to the interview round. They want to understand how many candidates failed the background check over the last year, and if there are any trends. They also want to learn how many background checks are completed each month and if there are any trends visible in the data. We are tasked with preparing a slide that summarises the findings which can be imported to a PowerPoint presentation.
 
