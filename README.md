@@ -14,3 +14,11 @@ The data used in this project is found in the following files (paths may need to
 - Failed Background Checks.csv (Table 1)
 - Total Background Checks Actioned (Table 2)
 - Actioner Locations.csv (Table 3)
+
+Main libraries used: 
+- Sqlite3: initial data wrangling
+- Pandas: final data wrangling, data frames
+- Numpy: math functions
+- MatPlotLib: custom data visualisation
+- Seaborn: heat maps, data visualisation
+- Geopandas: world map diagram
